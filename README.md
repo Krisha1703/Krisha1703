@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisha Botadara</h1>
-<h3 align="center">A passionate web developer eager to explore new technologies, learn continuously, and contribute to innovative projects.</h3>
-
-- 🌱 I’m currently learning **MERN Stack Developement**
+<h3 align="center">A passionate web developer eager to explore new technologies and contribute to innovative projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krisha1703](https://github.com/Krisha1703)
 
