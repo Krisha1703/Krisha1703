@@ -91,7 +91,7 @@
 </details>
 
 <details open>
-  <summary><b>Dev Tools</b></summary>
+  <summary><b>Tools & Platforms</b></summary>
   <div align="left">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logoColor=white" alt="GitHub"/>
