@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Krisha Botadara</h1>
-<h3 align="center">A passionate web developer eager to explore new technologies and contribute to innovative projects.</h3>
+<h1 align="left">Hi 👋, I'm Krisha Botadara</h1>
+<h3 align="left">Web Developer | Full-stack | React & Next.js Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Krisha1703](https://github.com/Krisha1703)
+- 👨‍💻 Projects: [GitHub](https://github.com/Krisha1703)
 
-- 📫 How to reach me **krishabotadara@gmail.com**
+- 📫 Reach Me: **krishabotadara@gmail.com**
 
+- 🌱 Learning: Modern Web Frameworks, Full-stack Development, AI/ML
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishabotadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishabotadara" height="30" width="40" /></a>
